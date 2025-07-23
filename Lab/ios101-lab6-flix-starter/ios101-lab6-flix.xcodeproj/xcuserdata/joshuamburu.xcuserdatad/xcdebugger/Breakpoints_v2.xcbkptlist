@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8FF09254-6F63-479B-902D-56DD77246FEF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "497BC446-875B-479F-86BA-3A0D70708347"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios101-lab6-flix/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "497BC446-875B-479F-86BA-3A0D70708347 - 789a888107d98b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_lab6_flix.DetailViewController.backdropImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ios101-lab6-flix.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuamburu/Library/CloudStorage/OneDrive-UniversityofSt.Thomas(2)/Codepath%20ios/Week%207/Lab/ios101-lab6-flix-starter/ios101-lab6-flix/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "497BC446-875B-479F-86BA-3A0D70708347 - cd35918145423a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_lab6_flix.DetailViewController.backdropImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ios101-lab6-flix.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuamburu/Library/CloudStorage/OneDrive-UniversityofSt.Thomas(2)/Codepath%20ios/Week%207/Lab/ios101-lab6-flix-starter/ios101-lab6-flix/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "497BC446-875B-479F-86BA-3A0D70708347 - b9660ee87030b146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_lab6_flix.DetailViewController.backdropImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ios101-lab6-flix.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuamburu/Library/CloudStorage/OneDrive-UniversityofSt.Thomas(2)/Codepath%20ios/Week%207/Lab/ios101-lab6-flix-starter/ios101-lab6-flix/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "497BC446-875B-479F-86BA-3A0D70708347 - 3d30f32bc759629c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_lab6_flix.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ios101_lab6_flix.DetailViewController"
+                  moduleName = "ios101-lab6-flix.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuamburu/Library/CloudStorage/OneDrive-UniversityofSt.Thomas(2)/Codepath%20ios/Week%207/Lab/ios101-lab6-flix-starter/ios101-lab6-flix/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "497BC446-875B-479F-86BA-3A0D70708347 - 35a914be5bda7aba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios101_lab6_flix.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ios101_lab6_flix.DetailViewController&gt;"
+                  moduleName = "ios101-lab6-flix.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joshuamburu/Library/CloudStorage/OneDrive-UniversityofSt.Thomas(2)/Codepath%20ios/Week%207/Lab/ios101-lab6-flix-starter/ios101-lab6-flix/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
